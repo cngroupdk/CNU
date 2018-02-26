@@ -1,4 +1,4 @@
-## Do you have idea about ... ?
+## Do you have any idea about ... ?
 
 - Code versionnig - GIT
 - REST
