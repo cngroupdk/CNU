@@ -23,7 +23,26 @@
 * [JS30 23 - Speech sysnthesis](https://github.com/wesbos/JavaScript30/blob/master/23%20-%20Speech%20Synthesis/index-START.html)
 * [JS30 30 - Whack a mole](https://github.com/wesbos/JavaScript30/blob/master/30%20-%20Whack%20A%20Mole/index-START.html)
 
+
+## JS micro tasks 
+
+[CW - www.codewars.com](www.codewars.com) The kata training
+
+* [CW - 01](https://www.codewars.com/kata/love-vs-friendship/train/javascript)
+* [CW - 02](https://www.codewars.com/kata/cat-years-dog-years)
+* [CW - 03](https://www.codewars.com/kata/beginner-lost-without-a-map)
+* [CW - 04](https://www.codewars.com/kata/multiple-of-index)
+* [CW - 05](http://www.codewars.com/kata/beginner-reduce-but-grow)
+* [CW - 06](http://www.codewars.com/kata/abbreviate-a-two-word-name)
+* [CW - 06](http://www.codewars.com/kata/no-loops-2-you-only-need-one)
+
+
 ## JS training topics
 
 * JS reference x copy of objects
 * JS ecosystem - from PlainJS, ES6(2015), ES7, ES8, DOM, node.js, specifications, frameworks & libraries
+
+# General training topics
+
+* CSS tips and tricks from modern to legacy
+* GIT basics
