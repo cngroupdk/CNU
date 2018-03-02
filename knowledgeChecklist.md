@@ -16,3 +16,5 @@
 ## Lectures topics
 
 - General app architecture
+- GIT basics and software versionnig
+- CSS tips and trics from modern to legacy
