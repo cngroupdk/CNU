@@ -28,13 +28,13 @@
 
 [CW - www.codewars.com](www.codewars.com) The kata training
 
-* [CW - 01](https://www.codewars.com/kata/love-vs-friendship/train/javascript)
-* [CW - 02](https://www.codewars.com/kata/cat-years-dog-years)
-* [CW - 03](https://www.codewars.com/kata/beginner-lost-without-a-map)
-* [CW - 04](https://www.codewars.com/kata/multiple-of-index)
-* [CW - 05](http://www.codewars.com/kata/beginner-reduce-but-grow)
-* [CW - 06](http://www.codewars.com/kata/abbreviate-a-two-word-name)
-* [CW - 06](http://www.codewars.com/kata/no-loops-2-you-only-need-one)
+* [CW 01 - Love vs friendship](https://www.codewars.com/kata/love-vs-friendship/train/javascript)
+* [CW 02 - Animal years](https://www.codewars.com/kata/cat-years-dog-years)
+* [CW 03 - Lost without map](https://www.codewars.com/kata/beginner-lost-without-a-map)
+* [CW 04 - Multiple of index](https://www.codewars.com/kata/multiple-of-index)
+* [CW 05 - Reduce but grow](http://www.codewars.com/kata/beginner-reduce-but-grow)
+* [CW 06 - Abbreviating a name](http://www.codewars.com/kata/abbreviate-a-two-word-name)
+* [CW 07 - No loops](http://www.codewars.com/kata/no-loops-2-you-only-need-one)
 
 
 ## JS training topics
