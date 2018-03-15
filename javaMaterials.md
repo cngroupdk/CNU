@@ -12,6 +12,7 @@ This file holds a list of existing training materials related to Java stack.
  * **Testing**:
     * [Testing with JDBC and EasyMock 12/2017](https://drive.google.com/open?id=1NB7lGd8aIfB78zhV0bEihsoIC631Jpw7KkttiH9TKg8)
     * [Testing using JUnit and Mockito 01/2018](https://drive.google.com/open?id=1tlik1uRvYfoKG7QXN5zle5UXU5DhW4jfU9I9qwfKRgc)
+    * [Testing and debugging (not only) in Java 03/2018](https://docs.google.com/presentation/d/1kcMHCGkSLMcPbKTZJGbgE1q9rYe7-oVOWxO5L2ILl_o/edit#slide=id.p)
  * **JEE**
     * [Enterprise Java Beans 12/2017](https://drive.google.com/open?id=1zk-Fehs-ifT4VZ42AcA82JYguFMnwCqisvPmCO2J8GE)
     
