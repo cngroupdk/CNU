@@ -34,14 +34,26 @@ This file holds a list of existing training materials related to Java stack.
  
 ## Recommended sources
 
+### Spring
  * **Spring in Action**, 4th Edition.pdf - especially chapters: 1, 2, 5 (beginning), 10, 16, 21
  * [Spring Core basics](https://www.tutorialspoint.com/spring/index.htm)
  * [Spring Boot introduction](https://spring.io/guides/gs/spring-boot/)
  * [REST in Spring introduction](https://spring.io/guides/gs/rest-service/)
  * [JDBC in Spring introduction](https://spring.io/guides/gs/relational-data-access/)
  * [Spring Data introduction](https://projects.spring.io/spring-data/)
+### Testing
+ * **Pragmatic Unit Testing in Java 8 with Junit**
  * [Testing with JUnit and EasyMock](http://www.michaelminella.com/testing/unit-testing-with-junit-and-easymock.html)
+ * [Create your own JUnit matcher](https://www.planetgeek.ch/2012/03/07/create-your-own-matcher/)
+ 
+### REST
  * [Basics of REST](https://spring.io/understanding/REST)
  * [How I explained REST to my wife](http://web.archive.org/web/20130116005443/http://tomayko.com/writings/rest-to-my-wife)
- * [Liquibase introduction](http://www.baeldung.com/liquibase-refactor-schema-of-java-app
-)
+
+### Databases
+* [Liquibase introduction](http://www.baeldung.com/liquibase-refactor-schema-of-java-app)
+
+
+### Debugging
+ * [Teaching novices how to debug code](http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/)
+ * [How to most effectively debug code](https://softwareengineering.stackexchange.com/questions/10735/how-to-most-effectively-debug-code)
