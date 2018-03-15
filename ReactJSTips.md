@@ -24,7 +24,7 @@
 * [JS30 30 - Whack a mole](https://github.com/wesbos/JavaScript30/blob/master/30%20-%20Whack%20A%20Mole/index-START.html)
 
 
-## JS micro tasks 
+## JS micro tasks
 
 [CW - www.codewars.com](www.codewars.com) The kata training
 
@@ -41,6 +41,26 @@
 
 * JS reference x copy of objects
 * JS ecosystem - from PlainJS, ES6(2015), ES7, ES8, DOM, node.js, specifications, frameworks & libraries
+
+## React learning resources
+
+#### Intro to redux:
+
+* Difference between library and framework (Angular x React) - mention they are only tools!
+* What is React, what it can do
+* Other libraries - React friends (Redux, React Router, Jest/Mocha)
+* Build process - Webpack etc...
+* What are components, how to imagine them
+* State handling?
+* Plan, tasks and mini-project
+
+* [egghead.io kurz starting with React](https://egghead.io/courses/start-learning-react)
+* [React docs](https://reactjs.org/docs/hello-world.html)
+* [egghead.io Redux from Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+* [State of JS](https://stateofjs.com/)
+* [Jokes API](https://api.chucknorris.io/)
+* [List of public APIs](https://github.com/toddmotto/public-apis)
+* [XKCD public API](https://xkcd.com/json.html)
 
 # General training topics
 
