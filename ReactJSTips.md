@@ -46,6 +46,7 @@
 
 #### Intro to redux:
 
+* JS dev environment set-up - npm, nvm, yarn
 * Difference between library and framework (Angular x React) - mention they are only tools!
 * What is React, what it can do
 * Other libraries - React friends (Redux, React Router, Jest/Mocha)
@@ -53,6 +54,7 @@
 * What are components, how to imagine them
 * State handling?
 * Plan, tasks and mini-project
+* Create react app
 * [egghead.io kurz starting with React](https://egghead.io/courses/start-learning-react)
 * [React docs](https://reactjs.org/docs/hello-world.html)
 * [egghead.io Redux from Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
