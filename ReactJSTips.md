@@ -53,7 +53,6 @@
 * What are components, how to imagine them
 * State handling?
 * Plan, tasks and mini-project
-
 * [egghead.io kurz starting with React](https://egghead.io/courses/start-learning-react)
 * [React docs](https://reactjs.org/docs/hello-world.html)
 * [egghead.io Redux from Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
