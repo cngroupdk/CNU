@@ -15,6 +15,8 @@ This file holds a list of existing training materials related to Java stack.
     * [Testing and debugging (not only) in Java 03/2018](https://docs.google.com/presentation/d/1kcMHCGkSLMcPbKTZJGbgE1q9rYe7-oVOWxO5L2ILl_o/edit#slide=id.p)
  * **JEE**
     * [Enterprise Java Beans 12/2017](https://drive.google.com/open?id=1zk-Fehs-ifT4VZ42AcA82JYguFMnwCqisvPmCO2J8GE)
+ * **Architecture and design patterns**
+    * [Software Architecture and design patterns](https://docs.google.com/presentation/d/135Sa17hQI_97AFX-VHuSDix14flwMbpJNb8PdQ4A2FY/edit?usp=sharing)
     
 ## Materials
  * [Basics of GIT, how to use GIT in IDEA](https://github.com/cngroupdk/cnu-mars-rover/blob/master/github-manual.md)    
@@ -57,3 +59,9 @@ This file holds a list of existing training materials related to Java stack.
 ### Debugging
  * [Teaching novices how to debug code](http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/)
  * [How to most effectively debug code](https://softwareengineering.stackexchange.com/questions/10735/how-to-most-effectively-debug-code)
+ 
+### Software architecture
+ * [Software architecture fundamentals, second edition](https://www.safaribooksonline.com/library/view/software-architecture-fundamentals/9781491998991/)
+ 
+### Design patterns
+ * [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md)
